@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack projects with focus on REST APIs, authentication (JWT), and real-world applications.<br>👯 I’m looking to collaborate on Open-source MERN projects, backend APIs, and full-stack web applications.<br>🤝 I’m looking for help with System design basics, scalable backend architecture, and production best practices.<br>🌱 I’m currently learning Advanced React patterns, Node.js backend optimization, and MongoDB performance.<br>💬 Ask me about MERN stack, JWT authentication, REST APIs, Express.js, and MongoDB.
+🔭 I’m currently working on MERN stack projects 
 
 
 ## 🌐 Socials:
