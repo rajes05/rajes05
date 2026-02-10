@@ -17,5 +17,14 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajes05&theme=radical&margin-w=4)
 
+## 📈 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajes05&layout=compact&theme=radical)
+
+## 📊 GitHub Stats
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajes05&show_icons=true&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajes05&theme=radical&hide_border=false)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
