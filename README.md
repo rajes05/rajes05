@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN stack projects 
+👋 Hi, I’m Rajesh  
+💻 MERN Full‑Stack Developer  
+🔭 Focused on building modern web applications with MongoDB, Express.js, React, Node.js and Next.js
 
 
 ## 🌐 Socials:
@@ -13,6 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajes05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajes05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rajes05&theme=radical&margin-w=4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
